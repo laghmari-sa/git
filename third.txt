@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "adding third.txt"
+git log
+git commit -m  "adding fourth.txt"
+git log
+git commit -m  "removing third.txt"
+git log
+git config --global
